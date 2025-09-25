@@ -1,0 +1,21 @@
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 1.2em;
+            line-height: 1.2em;
+        }
+
+        .section{
+            margin: 20px;
+            border-width: 2px;
+            border-style: solid;
+            border-color: rgb(197, 23, 183);
+            padding: 10px;
+        }
+
+        #section2{
+            margin: 20px;
+            border-width: 2px;
+            border-style: solid;
+            padding: 10px;
+            background-color: rgb(63, 174, 182);
+        }
